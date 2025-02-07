@@ -1,0 +1,4 @@
+abstract class Abstest extends Testable
+{
+    
+}
